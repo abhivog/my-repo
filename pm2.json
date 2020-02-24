@@ -1,0 +1,7 @@
+{
+    "name": "demo",
+    "script": "yarn start",
+    "env": {
+      "NODE_ENV": "development"
+    }
+  }
